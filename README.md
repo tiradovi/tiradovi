@@ -191,3 +191,12 @@
   &nbsp;
   <a href="mailto:sunvit9@gmail.com">sunvit9@gmail.com</a>
 </p>
+
+<div align="center">
+<h3>📊 GitHub Activity 📊</h3>
+<!-- ### 📊 GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeonhee-cho&show_icons=true&bg_color=ffffff&title_color=dda0dd&icon_color=dda0dd&text_color=444444" height="160"/>
+<!-- ### 💻 Most Used Language -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeonhee-cho&layout=compact&bg_color=ffffff&title_color=dda0dd&text_color=444444" height="160"/>
+</div>
+
