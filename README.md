@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+%2B+Spring+Boot;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00FFAA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%26+Spring+Boot+Engineer;Building+Real-World+Services" />
 </h1>
 
 <div>
