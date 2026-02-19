@@ -125,6 +125,59 @@
   </tbody>
 </table>
 
+<h2>🪪 Certificates</h2>
+<table>
+  <thead>
+    <tr>
+      <th>취득일</th>
+      <th>자격증명</th>
+      <th>발행처</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025.12</td>
+      <td>정보처리기사</td>
+      <td>한국산업인력공단</td>
+    </tr>
+    <tr>
+      <td>2025.09</td>
+      <td>SQLD</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+    <tr>
+      <td>2025.07</td>
+      <td>워드프로세서</td>
+      <td>대한상공회의소</td>
+    </tr>
+    <tr>
+      <td>2025.03</td>
+      <td>ADSP</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+    <tr>
+      <td>2024.04</td>
+      <td>정보처리기능사</td>
+      <td>한국산업인력공단</td>
+    </tr>
+    <tr>
+      <td>2023.08</td>
+      <td>DIAT(고급)</td>
+      <td>한국정보통신진흥협회</td>
+    </tr>
+       <tr>
+      <td>2021.04</td>
+      <td>네트워크관리사 2급</td>
+      <td>한국정보통신자격협회</td>
+    </tr>
+    <tr>
+      <td>2021.02</td>
+      <td>컴퓨터활용능력 2급</td>
+      <td>대한상공회의소</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2>✉️ Contact Me</h2>
 
 <p>
