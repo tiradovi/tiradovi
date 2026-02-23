@@ -194,10 +194,11 @@
 
 
 <div align="center">
-<h3>📊 GitHub Activity 📊</h3>
+  <h3>📊 GitHub Activity 📊</h3>
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tiradovi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiradovi&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiradovi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiradovi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
 </div>
 
 
